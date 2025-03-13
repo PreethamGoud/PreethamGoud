@@ -22,8 +22,7 @@
 
 ### 📚 Education
 🎓 **Master of Science in Information Systems**  
-*University of Cincinnati, Carl H. Lindner College of Business* (Apr 2025)  
-📖 *Graduate Certificate in Data Analytics*  
+*University of Cincinnati, Carl H. Lindner College of Business* (May 2025)  
 
 🎓 **Bachelor of Technology in Computer Science & Engineering**  
 *Indian Institute of Information Technology, Trichy, India* (Jul 2020)
@@ -50,8 +49,6 @@
 
 ### 📊 Featured Projects
 🚀 **[Majestic Realtors](https://github.com/PreethamGoud/MajesticRealtors)** - ASP.NET Core, C#, Azure-powered property search engine.
-
-📊 **[Paris Agreement Analysis](https://public.tableau.com/preetham/AgriSector)** - Data visualization project on the impact of climate policies on industries.
 
 📝 **[Assistive Conversation Transcriber](https://github.com/PreethamGoud/assistive_conversation_transcriber)** - Real-time speech-to-text app for hearing-impaired users.
 
