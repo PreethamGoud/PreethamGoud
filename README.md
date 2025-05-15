@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## I'm Preetham Chelimela  
-🚀 Passionate Full Stack Developer | Cloud & DevOps Enthusiast | Problem Solver
+🚀 Passionate Java Full Stack Developer | Cloud & DevOps Enthusiast | Problem Solver
 
 ---
 
@@ -30,20 +30,15 @@
 ---
 
 ### 💼 Work Experience
-- **Software Development Engineer @ Ramco Systems** (2020 - 2023)  
+- **Software Developer @ Ramco Systems** (2020 - 2023)  
   🔹 Developed scalable backend systems with Java, Spring Boot, Hibernate & JPA.  
   🔹 Built RESTful APIs handling millions of transactions efficiently.  
-  🔹 Deployed cloud solutions on AWS, reducing costs by 30%.
-  
-- **Teaching Assistant @ University of Cincinnati** (2023 - 2024)  
-  🔹 Assisted in Python & Database courses for 150+ students.  
-  🔹 Debugged code, graded assignments, and provided technical support.
-  
+  🔹 Deployed cloud solutions on AWS, reducing costs by 30%.  
 ---
 
 ### 🏆 Certifications
 - **AWS Certified Cloud Practitioner** (Jan 2025)
-- **AWS Certified Developer – Associate** (In Progress)
+- **AWS Certified Developer – Associate** (May 2025)
 
 ---
 
