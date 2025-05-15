@@ -10,13 +10,13 @@
 ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![C++](https://skillicons.dev/icons?i=cpp) ![SQL](https://skillicons.dev/icons?i=mysql)
 
 #### 🌐 Web Technologies:
-![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![React](https://skillicons.dev/icons?i=react) ![VueJS](https://skillicons.dev/icons?i=vue)
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![React](https://skillicons.dev/icons?i=react) ![VueJS](https://skillicons.dev/icons?i=vue) ![Angular](https://skillicons.dev/icons?i=angular)
 
 #### 🔧 Back-End & Databases:
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![Spring Boot](https://skillicons.dev/icons?i=spring) ![Express.js](https://skillicons.dev/icons?i=express) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql)
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![Spring Boot](https://skillicons.dev/icons?i=spring) ![Express.js](https://skillicons.dev/icons?i=express) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Oracle](https://skillicons.dev/icons?i=oracle)
 
 #### ☁️ Cloud & DevOps:
-![AWS](https://skillicons.dev/icons?i=aws) ![GCP](https://skillicons.dev/icons?i=gcp) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Jenkins](https://skillicons.dev/icons?i=jenkins) ![Git](https://skillicons.dev/icons?i=git)
+![AWS](https://skillicons.dev/icons?i=aws) ![Azure](https://skillicons.dev/icons?i=azure) ![GCP](https://skillicons.dev/icons?i=gcp) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Jenkins](https://skillicons.dev/icons?i=jenkins) ![Git](https://skillicons.dev/icons?i=git) ![OpenShift](https://skillicons.dev/icons?i=openshift)
 
 ---
 
@@ -30,15 +30,28 @@
 ---
 
 ### 💼 Work Experience
-- **Software Developer @ Ramco Systems** (2020 - 2023)  
-  🔹 Developed scalable backend systems with Java, Spring Boot, Hibernate & JPA.  
-  🔹 Built RESTful APIs handling millions of transactions efficiently.  
-  🔹 Deployed cloud solutions on AWS, reducing costs by 30%.  
+
+- **Java Full Stack Developer @ USAA** (Jun 2024 – Present, Remote)  
+  🔹 Developed RESTful APIs and full-stack applications using Spring Boot and Angular.  
+  🔹 Deployed scalable containerized microservices with Docker and OpenShift.  
+  🔹 Integrated Kafka for service communication and automated CI/CD using GitLab.  
+  🔹 Leveraged AWS Lambda and Prometheus for serverless architecture and monitoring.
+
+- **Software Engineer @ Ramco Systems** (Jun 2020 – Jun 2023, Chennai)  
+  🔹 Built backend systems and REST APIs using Java, Spring Boot, and Hibernate.  
+  🔹 Improved React performance using Redux and lazy loading.  
+  🔹 Automated CI/CD pipelines with Jenkins and deployed on AWS.
+
+- **Java Developer @ Leam Technology Systems** (Jul 2019 – Jun 2020, Remote)  
+  🔹 Developed applications using Java, React, Node.js, and Express.js.  
+  🔹 Applied microservices and secure protocols (OAuth, JWT).  
+  🔹 Optimized database queries in Oracle, MySQL, and PostgreSQL.
+
 ---
 
 ### 🏆 Certifications
+- **AWS Certified Developer – Associate** (May 2025)  
 - **AWS Certified Cloud Practitioner** (Jan 2025)
-- **AWS Certified Developer – Associate** (May 2025)
 
 ---
 
@@ -52,9 +65,9 @@
 ---
 
 ### 🌍 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preethamchelimela/)  
-📧 **Email:** [chelimpm@mail.uc.edu](mailto:chelimpm@mail.uc.edu)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preetham21/)  
+📧 **Email:** [chelimelapreetham@gmail.com](mailto:chelimelapreetham@gmail.com)
+📱 **Phone:** +1-513-669-3238
 ---
 
 💡 *"Striving to build scalable, efficient, and impactful solutions!"* 🚀
