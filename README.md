@@ -30,19 +30,20 @@
 ---
 
 ### 💼 Work Experience
-
+<!--
 - **Java Full Stack Developer @ USAA** (Jun 2024 – Present, Remote)  
   🔹 Developed RESTful APIs and full-stack applications using Spring Boot and Angular.  
   🔹 Deployed scalable containerized microservices with Docker and OpenShift.  
   🔹 Integrated Kafka for service communication and automated CI/CD using GitLab.  
   🔹 Leveraged AWS Lambda and Prometheus for serverless architecture and monitoring.
+  -->
 
-- **Software Engineer @ Ramco Systems** (Jun 2020 – Jun 2023, Chennai)  
+- **Software Engineer @ Ramco Systems** (Oct 2020 – Jun 2023, Chennai)  
   🔹 Built backend systems and REST APIs using Java, Spring Boot, and Hibernate.  
   🔹 Improved React performance using Redux and lazy loading.  
   🔹 Automated CI/CD pipelines with Jenkins and deployed on AWS.
 
-- **Java Developer @ Leam Technology Systems** (Jul 2019 – Jun 2020, Remote)  
+- **Software Engineer Intern @ Leam Technology Systems** (Jul 2019 – Sep 2019, Remote)  
   🔹 Developed applications using Java, React, Node.js, and Express.js.  
   🔹 Applied microservices and secure protocols (OAuth, JWT).  
   🔹 Optimized database queries in Oracle, MySQL, and PostgreSQL.
@@ -56,6 +57,8 @@
 ---
 
 ### 📊 Featured Projects
+🎬 **[Movie Watchlist App](https://github.com/PreethamGoud/movie-watchlist-app)** - React, Vite, TMDb API-powered movie watchlist with localStorage and GitHub Actions deployment.
+
 🚀 **[Majestic Realtors](https://github.com/PreethamGoud/MajesticRealtors)** - ASP.NET Core, C#, Azure-powered property search engine.
 
 📝 **[Assistive Conversation Transcriber](https://github.com/PreethamGoud/assistive_conversation_transcriber)** - Real-time speech-to-text app for hearing-impaired users.
