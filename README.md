@@ -70,7 +70,7 @@
 ### 🌍 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preethamchelimela/)  
 📧 **Email:** [chelimpm@mail.uc.edu](mailto:chelimpm@mail.uc.edu)
-📱 **Phone:** +1-513-413-7787
+📱 **Phone:** +1-513-669-3238
 ---
 
 💡 *"Striving to build scalable, efficient, and impactful solutions!"* 🚀
