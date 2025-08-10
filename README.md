@@ -34,7 +34,7 @@
   🔹 Developed RESTful APIs and full-stack applications using Spring Boot and Angular.  
   🔹 Deployed scalable containerized microservices with Docker and OpenShift.  
   🔹 Integrated Kafka for service communication and automated CI/CD using GitLab.  
-  🔹 Leveraged AWS Lambda and Prometheus for serverless architecture and monitoring.
+  <!--🔹 Leveraged AWS Lambda and Prometheus for serverless architecture and monitoring. -->
 
 - **Software Engineer @ Ramco Systems** (Oct 2020 – Jun 2023, Chennai)  
   🔹 Built backend systems and REST APIs using Java, Spring Boot, and Hibernate.  
