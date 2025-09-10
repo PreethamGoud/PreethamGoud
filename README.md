@@ -30,7 +30,7 @@
 ---
 
 ### 💼 Work Experience
-- **Java Full Stack Developer @ Humana** (Aug 2024 – Present, Remote)  
+- **Java Full Stack Developer @ Humana** (Oct 2024 – Present, Remote)  
   🔹 Developed RESTful APIs and full-stack applications using Spring Boot and Angular.  
   🔹 Deployed scalable containerized microservices with Docker and OpenShift.  
   🔹 Integrated Kafka for service communication and automated CI/CD using GitLab.  
@@ -41,7 +41,7 @@
   🔹 Improved React performance using Redux and lazy loading.  
   🔹 Automated CI/CD pipelines with Jenkins and deployed on AWS.
 
-- **Software Engineer Intern @ Leam Technology Systems** (Jul 2019 – Sep 2019, Remote)  
+- **Java Developer Intern @ Leam Technology Systems** (Jul 2019 – Sep 2019, Remote)  
   🔹 Developed applications using Java, React, Node.js, and Express.js.  
   🔹 Applied microservices and secure protocols (OAuth, JWT).  
   🔹 Optimized database queries in Oracle, MySQL, and PostgreSQL.
@@ -66,8 +66,8 @@
 ---
 
 ### 🌍 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preethamchelimela/)  
-📧 **Email:** [chelimpm@mail.uc.edu](mailto:chelimpm@mail.uc.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preetham21/)  
+📧 **Email:** [preetham.chelimela1@gmail.com](mailto:preetham.chelimela1@gmail.com)
 📱 **Phone:** +1-513-669-3238
 ---
 
