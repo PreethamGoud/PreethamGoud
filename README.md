@@ -30,10 +30,10 @@
 ---
 
 ### 💼 Work Experience
-- **Java Full Stack Developer @ Humana** (Oct 2024 – Present, Remote)  
+<!--- **Java Full Stack Developer @ Humana** (Oct 2024 – Present, Remote)  
   🔹 Developed RESTful APIs and full-stack applications using Spring Boot and Angular.  
   🔹 Deployed scalable containerized microservices with Docker and OpenShift.  
-  🔹 Integrated Kafka for service communication and automated CI/CD using GitLab.  
+  🔹 Integrated Kafka for service communication and automated CI/CD using GitLab.  -->
   <!--🔹 Leveraged AWS Lambda and Prometheus for serverless architecture and monitoring. -->
 
 - **Software Engineer @ Ramco Systems** (Oct 2020 – Jun 2023, Chennai)  
@@ -66,9 +66,9 @@
 ---
 
 ### 🌍 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preetham21/)  
-📧 **Email:** [preetham.chelimela1@gmail.com](mailto:preetham.chelimela1@gmail.com)
-📱 **Phone:** +1-513-669-3238
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preethamchelimela/)  
+📧 **Email:** [chelimelapreetham@gmail.com](mailto:chelimelapreetham@gmail.com)
+📱 **Phone:** +1-513-413-7787
 ---
 
 💡 *"Striving to build scalable, efficient, and impactful solutions!"* 🚀
